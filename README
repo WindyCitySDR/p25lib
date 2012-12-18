@@ -1,0 +1,13 @@
+Welcome to OP25
+
+OP25 is a project that brings together folks that are interested in
+software for processing APCO P25 traffic which is available under the
+GNU Public License (GPL). We have implemented software-defined radios
+for transmit and receive, a library for processing P25 traffic and
+patches to add P25 support to  the WireShark network traffic analzyzer.
+
+The project's wiki, bug tracking, and source code viewer can be found
+at http://www.sedition.org.au. If you've got questions about
+installing or using OP25 please subscribe to the op25-dev mailing list
+(http://tech.groups.yahoo.com/group/op25-dev) and post your questions
+there. Please see the file COPYING for the license.

@@ -1,0 +1,10 @@
+interleaved frame of 144 bits:
+6c42 e85d e2e8 2693 63d9 81f9 be23 b18a e006
+
+u_0 u_1 u_2 u_3 u_4 u_5 u_6 u7
+040 cfd 7bf b7d 793 6cf 33c 45
+
+6c42 e85d e2e8 2693 63d9 81f9 be23 b18a e006
+
+
+

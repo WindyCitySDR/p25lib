@@ -1,0 +1,11 @@
+s/UWord32/uint32_t/g
+s/UWord16/uint16_t/g
+s/UWord8/uint8_t/g
+s/Word32/int32_t/g
+s/Word16/int16_t/g
+s/Word8/int8_t/g
+s/MAX_32/INT32_MAX/g
+s/MAX_16/INT16_MAX/g 
+s/MIN_32/INT32_MIN/g
+s/MIN_16/INT16_MIN/g
+s/Flag/bool/g

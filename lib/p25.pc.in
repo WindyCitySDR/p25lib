@@ -1,0 +1,11 @@
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+includedir=@includedir@
+
+Name: P25
+Description: The p25 wireless toolbox
+URL: http://code.google.com/p/p25
+Version: @VERSION@
+Libs: -L${libdir} -lp25
+Cflags: -I${includedir}/p25
